@@ -1,16 +1,33 @@
-### Hi there 👋
+<h1 align="center">
+ 👋 Hi, I'm DMSintalor!
+</h1>
+ 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=26&duration=2500&lines=Software+Engineer;Computer+Vision+Developer;Fullstack+Developer" > 
+</p>
+</br>
 
-<!--
-**DMSintalor/DMSintalor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+>✔  I’m currently a graduate student at Zhejiang University  <br>
+✔  I am currently engaged in research in the field of computer vision... <br>
+✔  All of my projects are available at https://github.com/DMSintalor <br>
+✔  Know about my experiences : [http://cslzc.py00.top/](http://cslzc.py00.top/) <br>
+✔  How to reach me: <br> &nbsp; &nbsp; * [Email-@zclu](zclu@zju.edu.cn) <br>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stats
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DMSintalor&count_private=true&show_icons=true&include_orgs=true&theme=transparent" />
+    </td>
+    <td>
+      <img src="https://api.githubtrends.io/user/svg/DMSintalor/repos?time_range=one_year&group=other&theme=classic"/>
+    </td>
+  </tr>
+  <tr>
+  <td colspan="2">
+      <img style="width: 100%; height: 22vh" src="https://readme.app.surmon.me/api/render?template_id=github-top-languages&props.username=DMSintalor" />
+    </td>
+  </tr>
+</table>
