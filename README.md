@@ -11,7 +11,7 @@
 ✔  I am currently engaged in research in the field of computer vision... <br>
 ✔  All of my projects are available at https://github.com/zcluu <br>
 ✔  Know about my experiences : [http://cslzc.py00.top/](http://cslzc.py00.top/) <br>
-✔  How to reach me: <br> &nbsp; &nbsp; * [Email-@zclu](zclu@zju.edu.cn) <br>
+✔  How to reach me: <br> &nbsp; &nbsp; * [Email-@zclu](mailto:zclu@zju.edu.cn) <br>
 
 
 ### Stats
